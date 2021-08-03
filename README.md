@@ -21,11 +21,11 @@
 ## New version Avaiilable on Telegram as [SDBOTs In͏i͏f͏i͏n͏i͏t͏y͏](https://t.me/SDBOTs_inifinity)
 ## Ezilax-Bot is the latest
 
-## 👉My Updates Channel [EzilaXUpdates](https://t.me/Ezila_Updates)
+## 👉My Updates Channel [SDBOTs](https://t.me/SDBOTs_inifinity)
 
 # ❤️ Support
-<a href="https://t.me/Ezila_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Ezila_Updates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/SDBOTs_inifinity"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/SDBOTz"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Credits ❤️
 
@@ -40,7 +40,7 @@
 - [sadew](https://github.com/sadew451): Dev
 - [SDBOTs 𝐈𝐧𝐢𝐟𝐢𝐧𝐢𝐭𝐲](https://t.me/SDBOTs_inifinity)
 
-Anything missing kindly let us know at [Ezila Support](https://t.me/Ezila_Updates) or simply submit a pull request on the readme.
+Anything missing kindly let us know at [BOTs Support](https://t.me/SDBOTz) or simply submit a pull request on the readme.
 
 Should any be missing kindly let us know at [SDBOTs In͏i͏f͏i͏n͏i͏t͏y͏](https://t.me/SDBOTs_inifinity) or simply submit a pull request on the readme.
 
