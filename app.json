@@ -33,7 +33,7 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "1391755824"
+         "value": "1548967589"
       },
       "OWNER_NAME": {
          "description": "Your username",
@@ -46,7 +46,7 @@
       },
 "GRAND_IMG": {
          "description": "Telegraph files only:-@SDTelegraphbot. Image shows when hit /start",
-         "value": "https://telegra.ph/file/b500e6b17813772db2d6a.jpg"    
+         "value": "https://telegra.ph/file/3dc0815a6c1bde76a5108.jpg"    
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
